@@ -5,7 +5,7 @@
 ```code
     ____          __                                                                                
    / __/___  ____/ /      ___  __           email    : likelovec@gamil.com                            
-  / /_/_  / / __  / | /| / / |/_/           blog     : https://fzdwx.hashnode.dev                     
+  / /_/_  / / __  / | /| / / |/_/           website  : https://fzdwx.hashnode.dev                     
  / __/ / /_/ /_/ /| |/ |/ />  <             bilibili : https://space.bilibili.com/353383309           
 /_/   /___/\__,_/ |__/|__/_/|_|             he is a programmer.                                     
 ```
