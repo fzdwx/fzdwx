@@ -1,3 +1,10 @@
+```code
+    ____          __                                                                                
+   / __/___  ____/ /      ___  __           email    : likelovec@gamil.com                            
+  / /_/_  / / __  / | /| / / |/_/           website  : https://fzdwx.hashnode.dev                     
+ / __/ / /_/ /_/ /| |/ |/ />  <             bilibili : https://space.bilibili.com/353383309           
+/_/   /___/\__,_/ |__/|__/_/|_|             ...                                   
+```
 
 <!--
 <div align="center">
@@ -11,14 +18,3 @@
 </div>
 -->
 
-<br>
-<br>
-<br>
-
-```code
-    ____          __                                                                                
-   / __/___  ____/ /      ___  __           email    : likelovec@gamil.com                            
-  / /_/_  / / __  / | /| / / |/_/           website  : https://fzdwx.hashnode.dev                     
- / __/ / /_/ /_/ /| |/ |/ />  <             bilibili : https://space.bilibili.com/353383309           
-/_/   /___/\__,_/ |__/|__/_/|_|             ...                                   
-```
